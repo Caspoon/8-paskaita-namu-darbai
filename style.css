@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+.body-one {
+ font-size: 1.5rem;
+ width: 270px;
+ background: #7f90c6;
+ border-width: 2.5px;
+ border-radius: 5px;
+ }
+
+.header-one {
+  font-family: Oswald;
+  text-shadow: 2px 2px #6b75bc;
+  text-align: center;
+  background-color: #7f90c6;
+  line-height: 1.5;
+  padding: 15px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  font-weight: bold;
+  color: white;
+  margin-block-start: 0em;
+ }
+.title-one {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+ }
+.text-one {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+
+}
+/*2*/
+.body-two {
+  font-size: 1.5rem;
+  width: 280px;
+  height: 80%;
+  background: #7f90c6;
+  border-width: 2.5px;
+  border-radius: 5px
+ }
+.header-two {
+  text-align: center;
+  background-color: #7f90c6;
+  line-height: 1.5;
+  padding: 15px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  font-weight: bold;
+  color: white;
+  margin-block-start: 0em;
+ }
+.title-two {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+ }
+.text-two {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+/*3*/
+.body-three {
+  font-size: 1.5rem;
+  width: 280px;
+  background: #7f90c6;
+  border-width: 2.5px;
+  border-radius: 5px
+  }
+.header-three {
+  text-align: center;
+  background-color: #7f90c6;
+  line-height: 1.5;
+  padding: 15px;
+  border-radius: 5px;
+  border-width: 0.5px;
+  font-weight: bold;
+  color: white;
+  margin-block-start: 0em;
+ }
+.title-three {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+ }
+.text-three {
+  text-align: center;
+  color: black;
+  padding-left: 15px;
+  font-weight: bold;
+
+  }
+.flex-boxes {
+  background-image: linear-gradient(to right, #8a73c1, #7d74c0, #7175be, #6475bb, #5875b7);
+  padding: 20rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ }
+
+ #first-child{
+   background-color: gold;
+   border-color: gold;
+   width: 180px;
+   height: 40px;
+   margin: 60px;
+   border-radius: 5px;
+   text-align: center;
+ }
